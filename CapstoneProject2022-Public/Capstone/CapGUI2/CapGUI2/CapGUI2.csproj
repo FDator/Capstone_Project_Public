@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="electronics-solutions-logo.png" />
+    <None Remove="Nordson.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ViewModel">
+      <HintPath>..\ViewModel\bin\Debug\net6.0-windows\ViewModel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="electronics-solutions-logo.png" />
+    <Resource Include="Nordson.png" />
+  </ItemGroup>
+
+</Project>
