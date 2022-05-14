@@ -1,0 +1,21 @@
+<RecipeInstruction xsi:type="DotInstruction">
+  <Type>Dot</Type>
+  <PatternNodeId>9ab0b65f-fc13-4e4b-9aae-eaab4ee52a4f</PatternNodeId>
+  <InstructionId>930f6903-2d7a-41dd-8415-3b44482f63a6</InstructionId>
+  <Breakpoint>eNONE</Breakpoint>
+  <MoveToSafeZBeforeMove>false</MoveToSafeZBeforeMove>
+  <IsSelected>false</IsSelected>
+  <IsEnabled>true</IsEnabled>
+  <IsPassBlockChild>false</IsPassBlockChild>
+  <Applicator>1</Applicator>
+  <LibraryItemId>fc15a335-e57b-4c05-9756-34639f2c85a3</LibraryItemId>
+  <IsWeightControlOverrideEnabled>false</IsWeightControlOverrideEnabled>
+  <OverrideWeight>0</OverrideWeight>
+  <XYLocation>
+    <X>7.9180632358060024</X>
+    <Y>8.0705826557680069</Y>
+  </XYLocation>
+  <XLocation>7.9180632358060024</XLocation>
+  <YLocation>8.0705826557680069</YLocation>
+  <SelectDotType>fc15a335-e57b-4c05-9756-34639f2c85a3</SelectDotType>
+</RecipeInstruction>

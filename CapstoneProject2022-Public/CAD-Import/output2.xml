@@ -1,0 +1,56 @@
+<FidBaseData>
+  <Light1Settings>
+    <LightType />
+    <Light1LevelPercent />
+    <Light2LevelPercent />
+    <Light3LevelPercent />
+    <Light4LevelPercent />
+    <Light5LevelPercent />
+  </Light1Settings>
+  <CameraGain />
+  <Name />
+  <FidID />
+  <RunTimeFidID />
+  <ModelID />
+  <FidType />
+  <ModelOrigin>
+    <X>11</X>
+    <Y>22</Y>
+  </ModelOrigin>
+  <ExpectedXLocMM />
+  <ExpectedYLocMM />
+  <ExpectedZLocMM />
+  <SettlingTime />
+  <MinConfidence />
+  <SearchAreaWidth />
+  <SearchAreaHeight />
+  <ModelImageObj>
+    <Width />
+    <Height />
+    <CreatedAtResolution />
+    <OriginPoint>
+      <X />
+      <Y />
+    </OriginPoint>
+  </ModelImageObj>
+  <CompositeModelImageObj />
+  <IsSkipFidProcessing />
+  <IsSkipMark />
+  <LocationTolerance />
+  <MinScore />
+  <ModelUseRotation />
+  <SubPixel />
+  <SubPixResolution />
+  <LocalSearch />
+  <MinScale />
+  <MaxScale />
+  <CircularData>
+    <ExpectedDiameter />
+    <DiameterTolerance />
+    <FoundDiameter />
+    <UseFoundDiameterAsModel />
+    <SyntheticDesc />
+    <ColorType />
+    <IsDiameterToleranceCheckEnabled />
+  </CircularData>
+</FidBaseData>
